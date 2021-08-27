@@ -42,7 +42,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		34qJTlg8SWXKsKcEqAzuGKGQkRY=
+		xHEIERc3BgC/UATQh/EwTOfbvoY=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		cbmN4GHNZPKq4e4wuOpgxspGkhY=
+		xQK6xE4Y/qzvbi2b77qhZmwOUeU=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		qbG346e1VHfXxCQ3tIl61Z9A5Fc=
+		bNA1ONjO7SsoV0xQ62PEnlp/Cp0=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -174,7 +174,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		9jgdR0IQSOhW73qsM9DbwZpUEf4=
+		Slj7rnAA8DyFurC1jLMe3v2vvHA=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -286,11 +286,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			34qJTlg8SWXKsKcEqAzuGKGQkRY=
+			xHEIERc3BgC/UATQh/EwTOfbvoY=
 			</data>
 			<key>hash2</key>
 			<data>
-			mkdzFzYh7psHmTXuuSQi8QbXDf/+qpeSvNlVv70ssP0=
+			Ux5A3C6B2qZt5H4FNHSHtOF3bymA1ocpEt2NqpxzZSA=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -308,11 +308,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cbmN4GHNZPKq4e4wuOpgxspGkhY=
+			xQK6xE4Y/qzvbi2b77qhZmwOUeU=
 			</data>
 			<key>hash2</key>
 			<data>
-			S4vOaE1X0YxCqFFvSY6UB4rT11mstzlYz8+A3/l7I1A=
+			mfhvrh5N2Lsk4VdK7x8ZM+bu/6yGYkd1oMw8GqyKTzQ=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
@@ -385,11 +385,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qbG346e1VHfXxCQ3tIl61Z9A5Fc=
+			bNA1ONjO7SsoV0xQ62PEnlp/Cp0=
 			</data>
 			<key>hash2</key>
 			<data>
-			SASnLCeFE/9X04wTX3IuSprS53+mTwMUV7udlnPLR9o=
+			JIagTjnNwI9sS44pJ0bb1oHdkMm7Ty84BI1LK0LCLwU=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
