@@ -2,6 +2,7 @@ import 'story.dart';
 
 class StoryBraine {
   int _numberOfStory = 0;
+
   final _storyData = <Story>[
     Story(
         storyTitle:
@@ -46,27 +47,27 @@ class StoryBraine {
     return _storyData[_numberOfStory].choice2;
   }
 
-  void nextStory(int choiceNumber) {
-    if (choiceNumber == 1 && _numberOfStory == 0) {
+  void nextStory(int _choiceNumber) {
+    if (_choiceNumber == 1 && _numberOfStory == 0) {
       _numberOfStory = 2;
-    } else if (choiceNumber == 2 && _numberOfStory == 0) {
+    } else if (_choiceNumber == 2 && _numberOfStory == 0) {
       _numberOfStory = 1;
-    } else if (choiceNumber == 1 && _numberOfStory == 1) {
+    } else if (_choiceNumber == 1 && _numberOfStory == 1) {
       _numberOfStory = 2;
-    } else if (choiceNumber == 2 && _numberOfStory == 1) {
+    } else if (_choiceNumber == 2 && _numberOfStory == 1) {
       _numberOfStory = 3;
-    } else if (choiceNumber == 1 && _numberOfStory == 2) {
+    } else if (_choiceNumber == 1 && _numberOfStory == 2) {
       _numberOfStory = 5;
-    } else if (choiceNumber == 2 && _numberOfStory == 2) {
+    } else if (_choiceNumber == 2 && _numberOfStory == 2) {
       _numberOfStory = 4;
     } else if (_numberOfStory == 3 ||
         _numberOfStory == 4 ||
         _numberOfStory == 5) {
-      restart();
+      _restart();
     }
   }
 
-  void restart() {
+  void _restart() {
     _numberOfStory = 0;
   }
 
@@ -78,6 +79,3 @@ class StoryBraine {
     }
   }
 }
-
-//TODO: Step 25 - Change the storyNumber property into a private property so that only story_brain.dart has access to it. You can do this by right clicking on the name (storyNumber) and selecting Refactor -> Rename to make the change across all the places where it's used.
-
